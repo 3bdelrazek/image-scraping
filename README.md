@@ -7,5 +7,7 @@
 
 https://user-images.githubusercontent.com/101996642/168836496-76bc80b6-d20e-45a0-bb92-070d7e07305d.mp4
 
-<h3> Follow </h3>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6925918654970691584" height="694" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+-💪LIKE  [Linked In](https://www.linkedin.com/posts/abdelrazek-elsayad_python-pythonabrautomation-automation-activity-6925922446994788352-_ck4?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+
